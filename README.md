@@ -20,7 +20,7 @@
 _Not claiming all the credit. Jammed with my audit crew on some of these reports._
 
 ## Writings
-- [Stay Safe](https://medium.com/acke)
+- [Stay Safe](https://medium.com/ackee-blockchain/staying-safe-with-safe-ackee-blockchain-a0c069041993)
 - [ZK math basic](https://github.com/Ackee-Blockchain/zk-zero-zk-hero)
 
 ## Contribution
