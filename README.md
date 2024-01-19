@@ -20,9 +20,16 @@
 
 _Not claiming all the credit. Jammed with my audit crew on some of these reports_
 
+## Writings
+- [Stay Safe](https://medium.com/acke)
+- [ZK math basic](https://github.com/Ackee-Blockchain/zk-zero-zk-hero)
+
 ## Contribution
 - [Wake](https://github.com/Ackee-Blockchain/wake)
 - [YellowPaper](https://github.com/ethereum/yellowpaper/pull/856)
+
+## Conference speaks
+- [SafeCon 2023](https://conf.safe.global/#Speakers)
 
 ### Contact
 - [0xbemic](https://twitter.com/0xbemic)
