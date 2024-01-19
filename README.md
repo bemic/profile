@@ -18,7 +18,7 @@
 | [Zunami](https://www.zunami.io) | Core strategies | [report](reports/zunami.pdf)
 | [Glitter](https://www.glitterfinance.org) | EVM contracts | [report](reports/glitter.pdf)
 
-_Not claiming all the credit. Jammed with my audit crew on these security reports_
+_Not claiming all the credit. Jammed with my audit crew on some of these reports_
 
 ## Contribution
 [Wake](https://github.com/Ackee-Blockchain/wake)
