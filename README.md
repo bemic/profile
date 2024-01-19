@@ -1,6 +1,4 @@
-# Profile
-
-## Audit reports
+## Public audit reports
 
 ### With [Ackee Blockchain](https://ackeeblockchain.com/)
 | protocol | scope | report |
@@ -19,7 +17,7 @@
 | [Zunami](https://www.zunami.io) | Core strategies | [report](reports/zunami.pdf)
 | [Glitter](https://www.glitterfinance.org) | EVM contracts | [report](reports/glitter.pdf)
 
-_Not claiming all the credit. Jammed with my audit crew on some of these reports_
+_Not claiming all the credit. Jammed with my audit crew on some of these reports._
 
 ## Writings
 - [Stay Safe](https://medium.com/acke)
@@ -32,6 +30,6 @@ _Not claiming all the credit. Jammed with my audit crew on some of these reports
 ## Conference speaks
 - [SafeCon 2023](https://conf.safe.global/#Speakers)
 
-### Contact
+## Contact
 - [0xbemic](https://twitter.com/0xbemic)
 
