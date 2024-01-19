@@ -22,6 +22,7 @@ _Not claiming all the credit. Jammed with my audit crew on some of these reports
 
 ## Contribution
 [Wake](https://github.com/Ackee-Blockchain/wake)
+
 [YellowPaper](https://github.com/ethereum/yellowpaper/pull/856)
 
 ### Contact
