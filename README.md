@@ -21,10 +21,9 @@
 _Not claiming all the credit. Jammed with my audit crew on some of these reports_
 
 ## Contribution
-[Wake](https://github.com/Ackee-Blockchain/wake)
-
-[YellowPaper](https://github.com/ethereum/yellowpaper/pull/856)
+- [Wake](https://github.com/Ackee-Blockchain/wake)
+- [YellowPaper](https://github.com/ethereum/yellowpaper/pull/856)
 
 ### Contact
-[0xbemic](https://twitter.com/0xbemic)
+- [0xbemic](https://twitter.com/0xbemic)
 
