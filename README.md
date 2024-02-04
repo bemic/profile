@@ -14,7 +14,7 @@
 | [Layer Zero](https://layerzero.network) | proof-lib | [pdf](reports/layer-zero-prooflib.pdf)
 | [Layer Zero](https://layerzero.network) | Solidity-examples | [pdf](reports/layerzero-solidity-examples.pdf)
 | [Layer Zero](https://layerzero.network) | Solidity-examples (new contracts)| [pdf](reports/layerzero-solidity-examples-2.pdf)
-| [Zunami](https://www.zunami.io) | Core strategies | [report](reports/zunami.pdf)
+| [Zunami](https://www.zunami.io) | Core strategies | [pdf](reports/zunami.pdf)
 | [Glitter](https://www.glitterfinance.org) | EVM contracts | [pdf](reports/glitter.pdf)
 
 _Not claiming all the credit. Jammed with my audit crew on some of these reports._
