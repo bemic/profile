@@ -11,7 +11,7 @@
 | [Reserve](https://reserve.org) | Core | [pdf](reports/reserve.pdf)
 | [Astrid](https://astrid.finance/) | Core | [pdf](reports/astrid.pdf)
 | [Layer Zero](https://layerzero.network) | LPSStakingTime, WidgetSwap | [pdf](reports/layerzero-lps-widget.pdf)
-| [Layer Zero](https://layerzero.network) | proof-lib | [pdf](reports/layer-zero-prooflib.pdf)
+| [Layer Zero](https://layerzero.network) | proof-lib | [pdf](reports/layerzero-prooflib.pdf)
 | [Layer Zero](https://layerzero.network) | Solidity-examples | [pdf](reports/layerzero-solidity-examples.pdf)
 | [Layer Zero](https://layerzero.network) | Solidity-examples (new contracts)| [pdf](reports/layerzero-solidity-examples-2.pdf)
 | [Zunami](https://www.zunami.io) | Core strategies | [pdf](reports/zunami.pdf)
