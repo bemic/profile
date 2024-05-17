@@ -1,6 +1,13 @@
-## Public audit reports
+## Solo
+| scope | platform | rank |
+| ---- | ---- | ---------|
+| [ZeroLend](https://immunefi.com/boost/zerolend-boost/) | Immunefi boost | [#2](https://immunefi.com/boost/zerolend-boost/)
+| [Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205) | Sherlock | [#5](https://audits.sherlock.xyz/contests/205/leaderboard)
+| [Rio Network](https://audits.sherlock.xyz/contests/176) | Sherlock | [#9](https://audits.sherlock.xyz/contests/176/leaderboard)
 
-### With [Ackee Blockchain](https://ackeeblockchain.com/)
+
+
+## With [Ackee Blockchain](https://ackeeblockchain.com/)
 | protocol | scope | report |
 | ---- | ---- | ---------|
 | [Safe](https://safe.global) | Safe contracts 1.4.0 | [pdf](reports/Safe-1_4_0.pdf)
@@ -10,8 +17,6 @@
 | [Ipor](https://www.ipor.io) | Liqudity mining | [pdf](reports/ipor-mining.pdf)
 | [Reserve](https://reserve.org) | Core | [pdf](reports/reserve.pdf)
 | [Astrid](https://astrid.finance/) | Core | [pdf](reports/astrid.pdf)
-| [Layer Zero](https://layerzero.network) | LPSStakingTime, WidgetSwap | [pdf](reports/layerzero-lps-widget.pdf)
-| [Layer Zero](https://layerzero.network) | proof-lib | [pdf](reports/layerzero-prooflib.pdf)
 | [Layer Zero](https://layerzero.network) | Solidity-examples | [pdf](reports/layerzero-solidity-examples.pdf)
 | [Layer Zero](https://layerzero.network) | Solidity-examples (new contracts)| [pdf](reports/layerzero-solidity-examples-2.pdf)
 | [Zunami](https://www.zunami.io) | Core strategies | [pdf](reports/zunami.pdf)
@@ -31,5 +36,5 @@ _Not claiming all the credit. Jammed with my audit crew on some of these reports
 - [SafeCon 2023](https://conf.safe.global/#Speakers)
 
 ## Contact
-- [0xbemic](https://twitter.com/0xbemic)
+- [0xStiglitz](https://twitter.com/0xStiglitz)
 
