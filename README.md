@@ -1,14 +1,14 @@
 ## Solo
 | scope | platform | rank |
 | ---- | ---- | ---------|
-| [ZeroLend](https://immunefi.com/boost/zerolend-boost/) | Immunefi boost | [#2](https://immunefi.com/boost/zerolend-boost/)
+| [ZeroLend](https://immunefi.com/audit-competition/zerolend-boost/) | Immunefi boost | [#2](https://immunefi.com/audit-competition/zerolend-boost/leaderboard/)
 | [Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205) | Sherlock | [#5](https://audits.sherlock.xyz/contests/205/leaderboard)
 | [Rio Network](https://audits.sherlock.xyz/contests/176) | Sherlock | [#9](https://audits.sherlock.xyz/contests/176/leaderboard)
 
 
 
 ## With [Ackee Blockchain](https://ackeeblockchain.com/)
-| protocol | scope | report |
+| protocol | scope | public report |
 | ---- | ---- | ---------|
 | [Safe](https://safe.global) | Safe contracts 1.4.0 | [pdf](reports/Safe-1_4_0.pdf)
 | [Safe](https://safe.global) | Safe 4337 module | [pdf](reports/Safe-4337-module.pdf)
