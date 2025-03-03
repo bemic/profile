@@ -4,7 +4,7 @@
 | [ZeroLend](https://immunefi.com/audit-competition/zerolend-boost/) | Immunefi boost | [#2](https://immunefi.com/audit-competition/zerolend-boost/leaderboard/)
 | [Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205) | Sherlock | [#5](https://audits.sherlock.xyz/contests/205/leaderboard)
 | [Rio Network](https://audits.sherlock.xyz/contests/176) | Sherlock | [#9](https://audits.sherlock.xyz/contests/176/leaderboard)
-
+| [Aligned Layer](https://cantina.xyz/competitions/781d30df-39a9-47e6-b290-e388c79e04ea) | Cantina | [#8](https://cantina.xyz/competitions/781d30df-39a9-47e6-b290-e388c79e04ea/leaderboard)
 
 
 ## With [Ackee Blockchain](https://ackeeblockchain.com/)
